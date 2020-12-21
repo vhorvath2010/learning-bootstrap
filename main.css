@@ -3,7 +3,7 @@
 }
 
 #login-container {
-    margin-top: 8.5%;
+    margin-top: 10vh;
 }
 
 #login-card {
@@ -11,4 +11,15 @@
     box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
     -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
     -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+}
+
+#login-img {
+    padding: 0 2rem 2rem;
+    margin: auto;
+    display: block;
+}
+
+#login-form {
+    max-width: 350px;
+    margin: auto;
 }
